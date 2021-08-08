@@ -28,9 +28,10 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [e.g. Windows 10 Pro]
+ - Version: [e.g. 20H2]
+ - CPU: [e.g. i7-8650U]
+ - GPU: [e.g. RTX 2080 Ti]
 
 **Additional context**
 Add any other context about the problem here.
