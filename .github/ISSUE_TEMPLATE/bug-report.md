@@ -11,7 +11,7 @@ assignees: ''
 This is the only way this report will be seen. If labels are improper, this report will be removed.
 Remove this section when submitting report.
 
-**Describe the bug**
+**Describe Bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
@@ -21,17 +21,19 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected Behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop:**
+**Desktop**
  - OS: [e.g. Windows 10 Pro]
  - Version: [e.g. 20H2]
  - CPU: [e.g. i7-8650U]
  - GPU: [e.g. RTX 2080 Ti]
 
-**Additional context**
+**Additional Context**
 Add any other context about the problem here.
+
+**DELETE ANY SECTIONS YOU'VE LEFT BLANK BEFORE SUBMITTING THE ISSUE**
