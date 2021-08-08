@@ -9,6 +9,7 @@ assignees: ''
 
 **Add labels**
 This is the only way this report will be seen. If labels are improper, this report will be removed.
+Remove this section when submitting report.
 
 **Describe the bug**
 A clear and concise description of what the bug is.

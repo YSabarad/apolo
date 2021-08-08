@@ -9,6 +9,7 @@ assignees: ''
 
 **Add labels**
 This is the only way this request will be seen. If labels are improper, this request will be removed.
+Remove this section when submitting request.
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
