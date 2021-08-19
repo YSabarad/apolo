@@ -19,11 +19,6 @@ And Apolo's biggest surprise was extra characters! Our community's sluething fou
 
 ![infinity-07b-peterpan](https://user-images.githubusercontent.com/54723600/128649367-844538af-a779-43d6-8335-21ee22cc6a12.jpg)
 
-Of course, these are all a work in progress. For the full list of Apolo features, take a look at:
+Of course, these are all a work in progress. For the full list of Apolo features, and more information in general, take a look at:
 
-**put in the name of the file OR wiki with all the apolo features here**
-
-# How do I get started?
-First thing's first, make sure that you have a legally aquired copy of the game. The community here at Apolo wants to ensure that support gets to the developers of the game that we love so much! The game is available on Steam for $30, but we recommend getting the Gold Collection which includes 1.0, 2.0, and 3.0! Once you've gotten your game, take a look here to start your Apolo install:
-
-**put something here**
+https://www.apolomod.tk/home
